@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9807ce9-1b5e-42e6-bbcd-54b86a218426": {
+      "ProjectGuid": "f9807ce9-1b5e-42e6-bbcd-54b86a218426",
+      "DisplayName": "NfiCodeAssignment",
+      "ColorIndex": 0
+    },
+    "6ed1187c-445b-41fa-a0f7-3912e0aa0e7c": {
+      "ProjectGuid": "6ed1187c-445b-41fa-a0f7-3912e0aa0e7c",
+      "DisplayName": "NfiCodeAssignmentTest",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d086f3df-5efe-4ad3-87af-24f69b68e511": {
+      "ProjectGuid": "d086f3df-5efe-4ad3-87af-24f69b68e511",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 2
+    },
+    "fcd0602c-2d4e-43c7-836c-06cb6759d4f5": {
+      "ProjectGuid": "fcd0602c-2d4e-43c7-836c-06cb6759d4f5",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
